@@ -5,48 +5,9 @@
 <body>
 
 <h1>List of Popular Pets</h1>
-<p>test again</p>
+
 <ol>
 
-<li>Dog
-<ul>
-<li>Beagle</li>
-<li>Bulldog</li>
-<li>Poodle</li>
-</ul>
-</li>
-
-<li>Cat
-<ul>
-<li>Burmese</li>
-<li>Egyptian Mau</li>
-<li>Korat</li>
-</ul>
-</li>
-
-<li>Turtle
-<ul>
-<li>African Aquatic Sideneck</li>
-<li>Central American Wood</li>
-<li>Caspian Pond</li>
-</ul>
-</li>
-
-<li>Fish
-<ul>
-<li>Ryukin Goldfish</li>
-<li>Ocellaris Clownfish</li>
-<li>Butterfly Fish</li>
-</ul>
-</li>
-
-<li>Bird
-<ul>
-<li>Cockatiels</li>
-<li>Finch</li>
-<li>Canary</li>
-</ul>
-</li>
 
 <li>Lizard
 <ul>
