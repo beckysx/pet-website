@@ -1,79 +1,106 @@
 <html>
 <head>
-<title>Pets</title>
+<title>Description</title>
 </head>
 <body>
 
-<h1>List of Popular Pets</h1>
+<h1>Pets!</h1>
+<h4>Becky. Song</h4>
+<h4>Newcomb. Maddux</h4>
+
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="picture.html">Picture</a></li>
+  <li><a href="note.html">Notes</a></li>
+</ul>
 
 <ol>
 
-<li>Dog
-<ul>
-<li>Beagle</li>
-<li>Bulldog</li>
-<li>Poodle</li>
-</ul>
+
+<li>
+  <a href="picture.html">Lizard</a>
+  <dl>
+    <dt>Bearded Dragon</dt>
+    <dd>
+They are adept climbers, spending significant amounts of time on branches and in bushes and near human habitation. Pogona species bask on rocks and exposed branches in the mornings and afternoons.
+     </dd>
+     </dt>
+    </dl>
+
+    <dl>
+      <dt>Gold-Dust Day Gecko</dt>
+      <dd>
+  The gold dust day gecko (Phelsuma laticauda) is a diurnal species of gecko. It lives in northern Madagascar, and on the island of Comoros; it has also been introduced to Hawaii and other Pacific islands.
+       </dd>
+       </dt>
+      </dl>
+
+      <dl>
+        <dt>Leopard Gecko</dt>
+        <dd>
+    The Common leopard gecko (Eublepharis macularius) is a crepuscular, ground-dwelling lizard naturally found in the highlands of Asia and throughout Afghanistan, to parts of northern India.
+         </dd>
+         </dt>
+        </dl>
 </li>
 
-<li>Cat
-<ul>
-<li>Burmese</li>
-<li>Egyptian Mau</li>
-<li>Korat</li>
-</ul>
+<li>
+  <a href="picture.html">Snake</a>
+  <dl>
+    <dt>Red Tail Boa</dt>
+    <dd>
+The boa constrictor (Boa constrictor), also called the red-tailed boa or the common boa, is a species of large, non-venomous, heavy-bodied snake that is frequently kept and bred in captivity.
+     </dd>
+     </dt>
+    </dl>
+
+    <dl>
+      <dt>Kenyan Sand Boa</dt>
+      <dd>
+  Gongylophis colubrinus, the Kenyan sand boa, is a boa species found in Northern Kenya. The color pattern may consist of a yellow or orange coloration overlaid with dark brown splotches. The belly is white or cream colored.They are readily available in the pet trade due to their small size, docility and ease of care.
+       </dd>
+       </dt>
+      </dl>
+
+      <dl>
+        <dt>Ball Python</dt>
+        <dd>
+    The ball python is a python species found in sub-Saharan Africa. Like all other pythons, it is a nonvenomous constrictor. This is the smallest of the African pythons and is popular in the pet trade, largely due to its small size and typically docile temperament.
+         </dd>
+         </dt>
+        </dl>
 </li>
 
-<li>Turtle
-<ul>
-<li>African Aquatic Sideneck</li>
-<li>Central American Wood</li>
-<li>Caspian Pond</li>
-</ul>
-</li>
 
-<li>Fish
-<ul>
-<li>Ryukin Goldfish</li>
-<li>Ocellaris Clownfish</li>
-<li>Butterfly Fish</li>
-</ul>
-</li>
+<li>
+  <a href="picture.html">Hermit crab</a>
 
-<li>Bird
-<ul>
-<li>Cockatiels</li>
-<li>Finch</li>
-<li>Canary</li>
-</ul>
-</li>
+  <dl>
+    <dt>Caribbean Crab</dt>
+    <dd>
+The Caribbean hermit crab, Coenobita clypeatus, also known as the soldier crab,the West Atlantic crab, the tree crab, and the purple pincher (due to the distinctive purple claw), is a species of land hermit crab native to the west Atlantic, Bahamas, Belize, southern Florida,Venezuela, the Virgin Islands, and the West Indies.
+     </dd>
+     </dt>
+    </dl>
 
-<li>Lizard
-<ul>
-<li>Bearded Dragon</li>
-<li>Gold-Dust Day Gecko</li>
-<li>Leopard Gecko</li>
-</ul>
-</li>
+    <dl>
+      <dt>Coenobita Clypeatus</dt>
+      <dd>
+  Caribbean hermit crabs are both herbivorous and scavengers.In the wild, C. clypeatus feeds on animal and plant remains, overripe fruit, and feces of other animals,including the Mona ground iguana, Cyclura stejnegeri. 
+       </dd>
+       </dt>
+      </dl>
 
-<li>Snake
-<ul>
-<li>Red Tail Boa</li>
-<li>Kenyan Sand Boa</li>
-<li>Ball Python</li>
-</ul>
-</li>
-
-<li>Hermit crab
-<ul>
-<li>Caribbean Crab</li>
-<li>Coenobita Clypeatus</li>
-<li>Ecuadorian Crab</li>
-</ul>
+      <dl>
+        <dt>Ecuadorian Crab</dt>
+        <dd>
+    The Ecuadorian hermit crab (Coenobita compressus) also known as the Pacific hermit crab is a species of land hermit crab. It is one of the two land hermit crabs commonly sold in North America as a pet.
+         </dd>
+         </dt>
+        </dl>
 </li>
 
 </ol>
 
-<h3>Links</h3>
 </body>
 </html>
