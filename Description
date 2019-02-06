@@ -1,17 +1,27 @@
 <html>
 <head>
-<title>Pets</title>
+<title>Description</title>
 </head>
 <body>
 
-<h1>List of Popular Pets</h1>
+<h1>Pets!</h1>
+<h4>Becky. Song</h4>
+<h4>Newcomb. Maddux</h4>
 
 <ol>
 
+<li>Lizard
+  <dl>
+    <dt>Bearded Dragon</dt>
+    <dd>
+</li>
 
 <li>Lizard
 <ul>
 <li>Bearded Dragon</li>
+<dl>
+
+</dl>
 <li>Gold-Dust Day Gecko</li>
 <li>Leopard Gecko</li>
 </ul>
